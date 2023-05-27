@@ -10,7 +10,7 @@ int numB = Convert.ToInt32(Console.ReadLine());
 int result = 1;
 for (int i = 0; i < numB; i++)
 {
-    result *= numA ;
+    result *= numA ; //resul = presult * numA
 }
 
 System.Console.WriteLine(result);
